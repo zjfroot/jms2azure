@@ -1,0 +1,8 @@
+*.iml
+*.ipr
+*.iws
+target
+.idea/
+activemq-data/
+integration-platform/activemq-data/
+.mule/
